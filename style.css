@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+
+#status, #number_of_objects, #start{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+
+#input{
+    text-align: center;
+    width: 250px;
+}
+
+.note{
+    font-size: 15px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px aqua;
+    margin-top: 100px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
